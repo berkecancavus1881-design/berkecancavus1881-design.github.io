@@ -3,7 +3,7 @@
 Pocket terrarium sandbox — Godot 4.7.2 web build (single-threaded).
 
 **Play:** use the GitHub Pages URL if available, or:
-https://raw.githack.com/berkecancavus1881-design/kavanoz-oyna/main/index.html
+https://berkecancavus1881-design.github.io/oyun/
 
 Built from `berkecancavus1881-design/kavanoz` @ `3de7bb5`.
 
